@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+body {
+  font-family: "Inter", Arial, sans-serif;
+  margin: 2rem;
+  line-height: 1.5;
+}
+
+h1 {
+  color: #0b5cff;
+}
+
+a {
+  color: #0b5cff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
